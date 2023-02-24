@@ -1,6 +1,6 @@
 ### Oi! Eu sou o Saulo Santa Rita 👋
 
-- 🔭 Hoje trabalho com Supervisor Financeiro
+- 🔭 Hoje trabalho como Supervisor Financeiro
 - 🌱 Estudando Python e SQL
 - 📫 Contate-me pelo email: saulosantarita@gmail.com
 - 😄 Pronouns: ele/dele
